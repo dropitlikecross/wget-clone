@@ -1,6 +1,6 @@
 #/bin/bash
 
-#This script clones a website
+#This script clones a website.
 
 $ wget \
      --recursive \
