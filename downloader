@@ -1,0 +1,3 @@
+#Downloads website files recusively saving them to local formatting
+
+wget -rkpN -e robots=off
