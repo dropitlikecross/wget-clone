@@ -6,6 +6,7 @@ This is a reference script for cloning a website. This is not the fastest method
 
 
 
+    #/bin/bash
     $ wget \
          --recursive \
          --no-clobber \
