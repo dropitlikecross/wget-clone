@@ -17,3 +17,6 @@ This is a reference script for cloning a website. This is not the fastest method
          --no-parent \
             https://websitetoclonehere.com/
 
+
+
+[link to script](https://github.com/dropitlikecross/wget-clone/blob/main/cloner.sh)
